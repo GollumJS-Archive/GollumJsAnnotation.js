@@ -1,1 +1,3 @@
 # GollumJsAnnotation.js
+
+# DEPRECATED MODULE
